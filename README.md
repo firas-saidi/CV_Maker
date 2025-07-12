@@ -17,6 +17,10 @@ A dynamic and fully customizable CV/Resume builder built with React and Redux. T
 - ✍️ **Live Editable Content** – Update content in real-time with instant preview.
 - 🌐 **Multi-language Support** – Supports building your resume in various languages.
 
+- 
+- ![image alt](https://github.com/firas-saidi/CV_Maker/blob/a5cc94719d380bfc0b02ec65ca1c9343dcfb94dc/screencapture-localhost-3000-2025-07-12-10_52_25%20(1).png)
+
+
 ## 📌 Built-in Sections
 
 - Personal Information  
