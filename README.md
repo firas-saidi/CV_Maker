@@ -2,6 +2,9 @@
 
 A dynamic and fully customizable CV/Resume builder built with React and Redux. This app runs entirely in the browser, allowing users to create, preview, and export professional resumes — all without needing a backend or account.
 
+
+![image alt](https://github.com/firas-saidi/CV_Maker/blob/09715781db91a468d77decd52df3706db987d267/Screenshot%202025-07-12%20105157.png)
+
 ## 🚀 Features
 
 - ✅ **Fill Sample** – Instantly load a pre-filled sample resume.
@@ -13,6 +16,10 @@ A dynamic and fully customizable CV/Resume builder built with React and Redux. T
 - 📐 **Custom Print Margins** – Control print layout with adjustable margins.
 - ✍️ **Live Editable Content** – Update content in real-time with instant preview.
 - 🌐 **Multi-language Support** – Supports building your resume in various languages.
+
+- 
+- ![image alt](https://github.com/firas-saidi/CV_Maker/blob/a5cc94719d380bfc0b02ec65ca1c9343dcfb94dc/screencapture-localhost-3000-2025-07-12-10_52_25%20(1).png)
+
 
 ## 📌 Built-in Sections
 
